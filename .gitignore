@@ -1,11 +1,5 @@
-!setup/tt_lessons.sql
-!setup/tt_schoolclasses.sql
-!setup/tt_seasons.sql
-!setup/tt_settings.sql
-!setup/tt_subjects.sql
-!setup/tt_teachers.sql
-!setup/tt_timetable.sql
-!backup/TimetableManager.php
-!backup/TimetableManager.php
+\#setup/*
+\#backup/*
+cgi-bin/logs/*
 cgi-bin/vendor/*
 cgi-bin/src/config.php
